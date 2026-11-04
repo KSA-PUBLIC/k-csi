@@ -17,3 +17,9 @@
 ## 수정
 
 `index.html` 상단 `CONFIG`에서 배포 주소(`siteUrl`)와 결과 수신 이메일(`contactEmail`)을 설정할 수 있습니다. 문항·매핑·산출식은 페이지의 ‘설계 노트’ 화면에 공개되어 있습니다.
+
+## K-CSI × IMP 통합 진단 ver. 0.3 (imp.html)
+
+- 공개 페이지: https://ksa-public.github.io/k-csi/imp.html
+- 구성: 주 활동 소재지 입력 → 지역 K-CSI 데이터 분석 → 12개 지역 이슈 기여도 + IMP 5차원 18문항(총 30문항, 약 7분) → 지역 적합도·IMP 임팩트 점수·A/B/C 분류·변화이론·해당 SDGs·사회적 가치 추정·통합 시뮬레이션 결과지
+- 참고: ISO 37101, K-CSI Score v4(2026), IMP(Impact Management Project) 5차원, 청년마을 만들기 임팩트 리포트의 변화이론·이해관계자 구조
